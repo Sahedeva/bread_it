@@ -1,28 +1,3 @@
-== README
+== Bread It
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+This was a class exercise in trying to make a rails app. It is very basic. Mainly just tried to get a hello world app going. Played with styling and added a cat gif to make things fun. Just happy that when rails s command run that it didn't crash.
